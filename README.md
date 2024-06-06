@@ -1,5 +1,11 @@
 # PeakPickingLecture
 Algorithmic Concepts of Peak Picking for master students.
+
+Download link:
+
+[https://github.com/ZhixuNi/PeakPickingLecture/releases/download/20240606/ZhixuNi_PeakPicking_20240606.pptx](https://github.com/ZhixuNi/PeakPickingLecture/releases/download/20240606/ZhixuNi_PeakPicking_20240606.pptx)
+
+
 ![ZhixuNi_PeakPicking_20240606](https://github.com/ZhixuNi/PeakPickingLecture/assets/9975812/cb9f679f-7367-44b9-ac22-0b2d296dcb2d)
 
 
