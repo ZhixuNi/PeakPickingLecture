@@ -1,6 +1,13 @@
 # PeakPickingLecture
 Algorithmic Concepts of Peak Picking for master students.
 
+The first 3 slides contains few German sentences. The main contents is aimed for a 20 min lecture for master students to have the basic idea of both classic and cutting edge AI based peak picking algorithms.
+The slides are designed for an active way of teaching by asking questions to students in few slides and continue based on their answers.
+I've tried to add all possible reference links to figures from internet. If any link is missing, please comment in the issues page of this repository.
+The reference links can help the students to further continue self driven studies.
+This is the first version. If I have time I will try to add more content in similar interactive ways.
+
+
 Download link:
 
 [https://github.com/ZhixuNi/PeakPickingLecture/releases/download/20240606/ZhixuNi_PeakPicking_20240606.pptx](https://github.com/ZhixuNi/PeakPickingLecture/releases/download/20240606/ZhixuNi_PeakPicking_20240606.pptx)
